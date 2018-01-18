@@ -1,0 +1,23 @@
+{
+    "development": {
+        "username": "brach",
+        "password": 123456,
+        "database": "todos-dev",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    },
+    "test": {
+        "username": "brach",
+        "password": 123456,
+        "database": "todos-test",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    },
+    "production": {
+        "username": "brach",
+        "password": 123456,
+        "database": "database_production",
+        "host": "127.0.0.1",
+        "dialect": "postgres"
+    }
+}
